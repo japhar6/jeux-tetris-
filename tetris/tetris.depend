@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1724329171 source:c:\users\daddy\documents\nouveau dossier\tetris\gamegrid.cpp
+	"GameGrid.h"
+	<iostream>
+
+1724328197 c:\users\daddy\documents\nouveau dossier\tetris\gamegrid.h
+
+1724332146 source:c:\users\daddy\documents\nouveau dossier\tetris\gamelogic.cpp
+	"GameLogic.h"
+	<iostream>
+	"Piecetetris.h"
+	<cstdlib>
+
+1724332146 c:\users\daddy\documents\nouveau dossier\tetris\gamelogic.h
+	"GameGrid.h"
+	"Piecetetris.h"
+
+1724331204 c:\users\daddy\documents\nouveau dossier\tetris\piecetetris.h
+	"GameGrid.h"
+
+1724329532 source:c:\users\daddy\documents\nouveau dossier\tetris\main.cpp
+	"PieceTetris.h"
+	"GameGrid.h"
+	"GameLogic.h"
+	<iostream>
+	<chrono>
+	<thread>
+	<conio.h>
+	<cstdlib>
+
+1724331096 source:c:\users\daddy\documents\nouveau dossier\tetris\piecetetris.cpp
+	"Piecetetris.h"
+	"GameGrid.h"
+	"GameLogic.h"
+	<cstdlib>
+	<ctime>
+
